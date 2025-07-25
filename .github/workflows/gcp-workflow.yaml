@@ -3,7 +3,7 @@ on:
     branches: [ "master" ]
 
 env:
-  IMAGE_NAME: error-nas
+  IMAGE_NAME: error-nass
 jobs:
   build-and-push:
     runs-on: ubuntu-latest 
